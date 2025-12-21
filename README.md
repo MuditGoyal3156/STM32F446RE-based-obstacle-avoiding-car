@@ -42,7 +42,7 @@ Buzzer provides audible alerts with increasing frequency as distance decreases
 
 UART output sends distance data to a serial terminal
 
-### **Features**
+## **Features**
 
 Real-Time Distance Measurement using ultrasonic sensing
 
